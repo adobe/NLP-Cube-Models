@@ -1,0 +1,66 @@
+{
+    "en": [
+        {
+            "langid": 2,
+            "link": "https://github.com/adobe/NLP-Cube-Models/blob/3.0/models/en_ewt-1.0",
+            "parts": 6,
+            "version": "1.0"
+        }
+    ],
+    "en_esl": [
+        {
+            "langid": 5,
+            "link": "https://github.com/adobe/NLP-Cube-Models/blob/3.0/models/en_esl-1.0",
+            "parts": 4,
+            "version": "1.0"
+        }
+    ],
+    "en_ewt": [
+        {
+            "langid": 2,
+            "link": "https://github.com/adobe/NLP-Cube-Models/blob/3.0/models/en_ewt-1.0",
+            "parts": 6,
+            "version": "1.0"
+        }
+    ],
+    "en_gum": [
+        {
+            "langid": 3,
+            "link": "https://github.com/adobe/NLP-Cube-Models/blob/3.0/models/en_gum-1.0",
+            "parts": 10,
+            "version": "1.0"
+        }
+    ],
+    "en_gumreddit": [
+        {
+            "langid": 4,
+            "link": "https://github.com/adobe/NLP-Cube-Models/blob/3.0/models/en_gumreddit-1.0",
+            "parts": 5,
+            "version": "1.0"
+        }
+    ],
+    "en_lines": [
+        {
+            "langid": 1,
+            "link": "https://github.com/adobe/NLP-Cube-Models/blob/3.0/models/en_lines-1.0",
+            "parts": 5,
+            "version": "1.0"
+        }
+    ],
+    "en_partut": [
+        {
+            "langid": 0,
+            "link": "https://github.com/adobe/NLP-Cube-Models/blob/3.0/models/en_partut-1.0",
+            "parts": 6,
+            "version": "1.0"
+        }
+    ],
+    "english": [
+        {
+            "langid": 2,
+            "link": "https://github.com/adobe/NLP-Cube-Models/blob/3.0/models/en_ewt-1.0",
+            "parts": 6,
+            "version": "1.0"
+        }
+    ]
+}
